@@ -1,3 +1,8 @@
+/**
+ * CodeNames game
+ * @author
+ */
+
 import lattelib.ColorLatte;
 import lattelib.WebLatte;
 
