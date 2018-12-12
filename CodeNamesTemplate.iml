@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lattelib-snapshot51917" level="project" />
+    <orderEntry type="library" name="AssignmentTelemetry-snapshot020918" level="project" />
   </component>
 </module>
